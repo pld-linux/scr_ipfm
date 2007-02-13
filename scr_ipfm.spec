@@ -1,6 +1,6 @@
 # TODO: webapps, banner instead of echo
 Summary:	scr_ipfm - on-site display of ipfm summaries
-Summary(pl.UTF-8):   scr_ipfm - przedstawianie wyników z ipfm-a na stronie WWW
+Summary(pl.UTF-8):	scr_ipfm - przedstawianie wyników z ipfm-a na stronie WWW
 Name:		scr_ipfm
 Version:	0.64
 Release:	0.1
